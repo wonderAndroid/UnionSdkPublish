@@ -3,7 +3,7 @@
   <groupId>com.wonder</groupId>
   <artifactId>unionsdk</artifactId>
   <versioning>
-    <release>3.1.0.1</release>
+    <release>3.1.0.2</release>
     <versions>
       <version>3.0.3</version>
       <version>3.0.2</version>
@@ -17,7 +17,8 @@
       <version>3.0.3.4</version>
       <version>3.1.0.0</version>
       <version>3.1.0.1</version>
+      <version>3.1.0.2</version>
     </versions>
-    <lastUpdated>20200730104519</lastUpdated>
+    <lastUpdated>20200730111928</lastUpdated>
   </versioning>
 </metadata>
