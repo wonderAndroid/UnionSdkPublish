@@ -16,7 +16,7 @@
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>common</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

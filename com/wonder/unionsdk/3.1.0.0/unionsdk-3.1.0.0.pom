@@ -10,85 +10,85 @@
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>alphab</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>common</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>mtgbanner</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>mtgdownloads</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>mtgjscommon</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>playercommon</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>reward</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>videocommon</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>videojs</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>interstitialvideo</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>interstitial</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>mtgsplash</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>mtgbid</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mintegral.msdk</groupId>
       <artifactId>optimizedata</artifactId>
-      <version>14.1.01</version>
+      <version>14.2.61</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
